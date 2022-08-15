@@ -5,39 +5,62 @@
 
 === Research Interests
 
-- Applications: Pricing and Revenue Management, Service Operations, E-commerce and Omni-channel Retail, On-demand Platforms.
+- Applications: Pricing and Revenue Management,  Supply Chain Management and Logistics,  Retail Operations,  On-demand Platforms.
 
 
-- Methodologies: Stochastic Optimization, Statistical Learning, Asymptotic Analysis, Online Learning and Optimization.
+- Methodologies:  Stochastic Control,  Dynamic Optimization,  Online Learning and Optimization,  Asymptotic Analysis.
 
 
 
 
-=== Publication 
-
--  Murray Lei, Stefanus Jasin. [https://doi.org/10.1287/opre.2019.1906 Real-time Dynamic Pricing for Revenue Management with Reusable Resources, Advance Reservations, and Deterministic Service Time Requirements.] (2020) /Operations Research/.
+=== Publications
 
 
-- Murray Lei, Stefanus Jasin, Amitabh Sinha.  [https://pubsonline.informs.org/doi/abs/10.1287/msom.2017.0641 Joint Dynamic Pricing and Order Fulfillment for E-commerce Retailers.] (2018) /Manufacturing \& Service Operations Management/. 
+- [https://doi.org/10.1287/msom.2021.1012 Joint Product Framing (Display, Ranking, Pricing) and Order Fulfilment under the MNL Model for E-Commerce Retailers] (with Stefanus Jasin,  Joline Uichanco, and Andrew Vakhutinsky),  /Manufacturing \& Service Operations Management/,  2021. 
+
+
+- [https://doi.org/10.1287/opre.2019.1906  Real-time Dynamic Pricing for Revenue Management with Reusable Resources, Advance Reservations, and Deterministic Service Time Requirements] (with Stefanus Jasin), /Operations Research/,  2020.  
+
+
+- [https://pubsonline.informs.org/doi/abs/10.1287/msom.2017.0641 Joint Dynamic Pricing and Order Fulfillment for E-commerce Retailers] (with Stefanus Jasin and Amitabh Sinha), /Manufacturing \& Service Operations Management/,  2018.  
   -- [http://pomshk2017.ust.hk/studentpaper.html 2017 POMS-HK Student Paper Competition], Second Place. 
 
 
 
   
-=== Preprints
-
-- Murray Lei, Sentao Miao, Ruslan Momot. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3704446 Privacy-Preserving Personalized Revenue Management.]
-
-- Murray Lei, Sheng Liu, Stefanus Jasin, Andrew Vakhutinsky. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3688561 On the Joint Inventory and Pricing Control for a One-Warehouse Multi-Store Problem with Lost Sales: Spiraling Phenomena and a Near-Optimal Heuristic.]
+=== Under Review/Revision
 
 
-- Qi (George) Chen,  Murray Lei, Stefanus Jasin. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3610517 Real-Time Spatial-Intertemporal Dynamic Pricing for Balancing Supply and Demand in a Network.] 
+- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3610517 Real-Time Spatial-Intertemporal Dynamic Pricing (and Relocation) in a Ride-Hailing Network: Near Optimal Controls and the Value of Dynamic Pricing] (with Qi (George) Chen and Stefanus Jasin),  minor revision at /Operations Research/.
 
 
-- Murray Lei, Stefanus Jasin, Jinyi Wang, Houtao Deng, Jagannath Putrevu.  [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3532844 Dynamic Workforce Acquisition for Crowdsourced Delivery Platforms.]
+- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3688561 Joint Inventory and Pricing for a One-Warehouse Multi-Store Problem: Spiraling Phenomena, Near Optimal Policies, and the Value of Dynamic Pricing] (with Sheng Liu,  Stefanus Jasin,  and Andrew Vakhutinsky),  major revision at /Operations Research/.
+
+- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3704446 Privacy-Preserving Personalized Revenue Management] (with Sentao Miao and Ruslan Momot),  major revision at /Management Science/.
+  -- 2021 INFORMS Revenue Management \& Pricing Conference Spotlight Presentation
+  -- Selected media mentions:[https://insight.kellogg.northwestern.edu/article/how-companies-can-do-data-privacy-better  Kellogg Insight], [https://theconversation.com/three-ways-to-encourage-companies-to-keep-our-data-safe-155411 The Conversation], [https://www.hec.edu/en/knowledge/articles/how-can-we-force-companies-keep-our-data-safe HEC Knowledge], [https://hecstories.fr/fr/boutique/hec-stories-n10-ete-2021-version-numerique/ HEC Stories (in French)], [https://www.mk.co.kr/news/business/view/2021/08/801437/ Maeil Business Newspaper (in Korean)]
 
 
-- Murray Lei, Stefanus Jasin,  Joline Uichanco, Andrew Vakhutinsky. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3282019 Joint Product Framing (Display, Ranking, Pricing) and Order Fulfillment under the MNL Model for E-Commerce Retailers.]
+- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4116479 Dynamic Pricing for Multi-Product Consumer Electronics Trade-in Program] (with Zhuolu Zhang and Sean Zhou),  submitted to Operations Research. 
 
 
-- Murray Lei, Stefanus Jasin, Amitabh Sinha.   [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2509425 Near-Optimal Bisection Search for Nonparametric Dynamic Pricing with Inventory Constraint.]
+=== Selected Working Papers
+
+- Joint Dynamic Optimization of Pricing and Personalized Recommendations in Omnichannel Retailing (with Dan Zhang and Rui Zhang).
+
+- Locally Private Clustering and Bandit Optimization in Personalized Revenue Management (with Sentao Miao,  Ruslan Momot, and Yining Wang).
+
+- Joint Pricing, Inventory Control, and Fulfillment in a Multi-Warehouse Multi-Store System (with Stefanus Jasin,  Sentao Miao,  and Debjit Roy).
+ 
+- Pricing and Returns in the Era of Big Tech: Implications of Information Asymmetry Reversal (with Kiarash Hassani and Anton Ovchinnikov).
+
+- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3532844 Dynamic Workforce Acquisition for Crowdsourced Delivery Platforms] (with Stefanus Jasin,  Jinyi Wang,  Houtao Deng,  and Jagannath Putrevu),  in revision. 
+
+
+- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2509425 Near-optimal Bisection Search for Nonparametric Dynamic Pricing with Inventory Constraint] (with Stefanus Jasin and Amitabh Sinha),  in revision. 
+
+
+
+
+
+
