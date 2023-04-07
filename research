@@ -15,6 +15,10 @@
 
 === Accepted/Published Papers
 
+- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3704446 Privacy-Preserving Personalized Revenue Management] (with Sentao Miao and Ruslan Momot), /Management Science/, 2023.
+  -- 2021 INFORMS Revenue Management \& Pricing Conference Spotlight Presentation
+  -- Selected media mentions:[https://insight.kellogg.northwestern.edu/article/how-companies-can-do-data-privacy-better  Kellogg Insight], [https://theconversation.com/three-ways-to-encourage-companies-to-keep-our-data-safe-155411 The Conversation], [https://www.hec.edu/en/knowledge/articles/how-can-we-force-companies-keep-our-data-safe HEC Knowledge], [https://hecstories.fr/fr/boutique/hec-stories-n10-ete-2021-version-numerique/ HEC Stories (in French)], [https://www.mk.co.kr/news/business/view/2021/08/801437/ Maeil Business Newspaper (in Korean)]
+
 - [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3610517 Real-Time Spatial-Intertemporal Pricing and Relocation in a Ride-Hailing Network: Near Optimal Policies and the Value of Dynamic Pricing] (with Qi (George) Chen and Stefanus Jasin), /Operations Research/, 2022.
 
 
@@ -32,12 +36,8 @@
 
 
   
-=== Papers Under Review/Revision
+=== Selected Working Papers
 
-
-- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3704446 Privacy-Preserving Personalized Revenue Management] (with Sentao Miao and Ruslan Momot), under minor revision at /Management Science/.
-  -- 2021 INFORMS Revenue Management \& Pricing Conference Spotlight Presentation
-  -- Selected media mentions:[https://insight.kellogg.northwestern.edu/article/how-companies-can-do-data-privacy-better  Kellogg Insight], [https://theconversation.com/three-ways-to-encourage-companies-to-keep-our-data-safe-155411 The Conversation], [https://www.hec.edu/en/knowledge/articles/how-can-we-force-companies-keep-our-data-safe HEC Knowledge], [https://hecstories.fr/fr/boutique/hec-stories-n10-ete-2021-version-numerique/ HEC Stories (in French)], [https://www.mk.co.kr/news/business/view/2021/08/801437/ Maeil Business Newspaper (in Korean)]
 
 
 - [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4116479 Dynamic Pricing for Multi-Product Consumer Electronics Trade-in Program] (with Zhuolu Zhang and Sean Zhou), under major revision at /Operations Research/. 
@@ -49,9 +49,8 @@
 - [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3532844 Dynamic Workforce Acquisition for Crowdsourced Delivery Platforms] (with Stefanus Jasin,  Jinyi Wang,  Houtao Deng,  and Jagannath Putrevu), under revision. 
 
 
-=== Selected Work in Progress
 
-- Joint Dynamic Optimization of Pricing and Personalized Recommendations in Omnichannel Retailing (with Dan Zhang and Rui Zhang).
+- Joint Dynamic Optimization of Pricing and Personalized Recommendations in Omnichannel Retailing (with Zhong-Zhong Jiang, Dan Zhang, Rui Zhang, and Yunwei Qi).
 
 - Locally Private Clustering and Bandit Optimization in Personalized Revenue Management (with Sentao Miao,  Ruslan Momot, and Yining Wang).
  
