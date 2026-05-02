@@ -5,15 +5,15 @@
 
 === Research Interests
 
-- Applications: Pricing and Revenue Management,  Supply Chain Management and Logistics,  Retail Operations,  On-demand Platforms.
+- Applications: Generative and Agentic AI, Pricing and Revenue Management, Supply Chain Management and Logistics,  Retail Operations,  On-demand Platforms.
 
 
-- Methodologies:  Stochastic Control,  Dynamic Optimization,  Online Learning and Optimization,  Asymptotic Analysis.
-
-
+- Methodologies:  Stochastic Control, Dynamic Optimization,  Online Learning and Optimization,  Asymptotic Analysis.
 
 
 === Accepted/Published Papers
+
+- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4116479 Dynamic Pricing for Multi-Product Consumer Electronics Trade-in Program] (with Zhuolu Zhang and Sean Zhou), /Operations Research/, 2025. 
 
 - [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3704446 Privacy-Preserving Personalized Revenue Management] (with Sentao Miao and Ruslan Momot), /Management Science/, 2023.
   -- 2021 INFORMS Revenue Management \& Pricing Conference Spotlight Presentation
@@ -38,20 +38,16 @@
   
 === Selected Working Papers
 
+- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4577059 Expected Profit of Fixed Price Policy Decays Exponentially in the Lead Time] (with Stefanus Jasin, Alys Liang, and Lai Wei), under major revision at /Manufacturing \& Service Operations Management/. 
 
+- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4672673 Joint Dynamic Optimization of Pricing and Personalized Recommendations in Omnichannel Retailing] (with Zhong-Zhong Jiang, Dan Zhang, and Rui Zhang), under review at /Manufacturing \& Service Operations Management/. 
 
-- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4116479 Dynamic Pricing for Multi-Product Consumer Electronics Trade-in Program] (with Zhuolu Zhang and Sean Zhou), under minor revision at /Operations Research/. 
+- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4412171 Coordinating Inventory and Fulfillment (and Pricing) Decisions in E-Commerce Supply Chains] (with Gowtham Bellala, Stefanus Jasin,  Sentao Miao,  Debjit Roy, and Zhiyuan Sun), under review at /Manufacturing \& Service Operations Management/. 
 
-- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4577059 Expected Profit of Fixed Price Policy Decays Exponentially in the Lead Time] (with Stefanus Jasin, Alys Liang, and Lai Wei), under first round review at /Operations Research/. 
-
-- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4672673 Joint Dynamic Optimization of Pricing and Personalized Recommendations in Omnichannel Retailing] (with Zhong-Zhong Jiang, Dan Zhang, and Rui Zhang), under first round review at /Management Science/. 
-
-
-- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4298794 Joint Inventory, Pricing, and Fulfillment Control for a Multi-Warehouse Multi-Store Problem: An Asymptotically Optimal Lagrangian Policy] (with Stefanus Jasin,  Sentao Miao,  Debjit Roy, and Zhiyuan Sun).
+- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6505940 Asymptotically Optimal Sequential Testing with Heterogeneous LLMs] (with Guokai Li, Alys Jiang, Mo Liu, Stefanus Jasin, Fenghua Yang, and Preet Baxi.
 
 - Locally Private Clustering and Bandit Optimization in Personalized Revenue Management (with Sentao Miao,  Ruslan Momot, and Yining Wang).
- 
-#- Pricing and Returns in the Era of Big Tech: Implications of Information Asymmetry Reversal (with Kiarash Hassani and Anton Ovchinnikov).
+
 
 - [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3532844 Dynamic Workforce Acquisition for Crowdsourced Delivery Platforms] (with Stefanus Jasin,  Jinyi Wang,  Houtao Deng,  and Jagannath Putrevu). 
 
